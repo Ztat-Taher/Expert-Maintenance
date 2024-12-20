@@ -19,7 +19,7 @@ The goal of this project is to develop a mobile application that allows maintena
 - **Image Capture**: Capture and store images related to interventions.
 - **Google Maps Integration**: Navigate to intervention sites using Google Maps.
 
-## 📱 Screenshots
+## 📸 Screenshots
 
 !Login Screen
 !Intervention List
